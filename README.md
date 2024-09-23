@@ -1,5 +1,3 @@
-# 🗓️ Activity-Calendar
-<a href="https://github.com/harismuneer"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=harismuneer&style=flat-square" width="125"/></a>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 [![GitHub Forks](https://img.shields.io/github/forks/harismuneer/Activity-Calendar.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/harismuneer/Activity-Calendar/fork)
@@ -48,7 +46,7 @@ Create a new Console Application Project in Visual Studio for Visual C++ and add
 
 
 ## 🤝 Consulting / Coaching
-Stuck with some problem? Need help in solution development, guidance, training or capacity building? I am a Full Stack Engineer turned Project Manager with years of technical and leadership experience in a diverse range of technologies and domains. Let me know what problem you are facing at <b>haris.muneer5@gmail.com</b> and we can schedule a consultation meeting to help you get through it.
+Stuck with some problem? Need help in solution development, guidance, training or capacity building? I am a Full Stack Engineer turned Project Manager with years of technical and leadership experience in a diverse range of technologies and domains. Let me know  and we can schedule a consultation meeting to help you get through it.
 
 ## 👨‍💻 Technical Skills & Expertise
 
@@ -67,33 +65,13 @@ For donations, you can follow these simple steps:
 
 <b>2)</b> Select the amount e.g (15$) and choose the receiving/recipient's currency to be PKR. It supports multiple payment options (credit card, debit card, wire transfer etc)
 
-<b>3)</b> Then it will show my info as the recipient, select it. If my name isn't shown, then type my email haris.muneer5@gmail.com in recipients.
-
-<b>4)</b> Choose the reason for transfer to the one that suits you the most (in this case it could be 'General expenses') and in the reference section, you can mention 'Support'
- 
-If you face any issue in sending donation then feel free to get in touch with me at haris.muneer5@gmail.com 
-
-Thank you for your contribution!
-
-
-## Author
-You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Follow)](https://www.linkedin.com/in/harismuneer)
-
-You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/harismuneer)
-
-If you liked the repo then kindly support it by giving it a star ⭐ and share in your circles so more people can benefit from the effort.
+<b>3)</b> Then it will show my info as the recipient, select it. 
+<b>4)</b> Choose the reason for transfer to the one that suits you the most (in this case it could be 'General expenses') and in the reference section, you can mention 'Support
 
 ## Contributions Welcome
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
 
 If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
 
-## Issues
-[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Activity-Calendar.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Activity-Calendar/issues)
-
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
-
-## License
-[![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
-
-Copyright (c) 2018-present, harismuneer                                                        
+                                          
